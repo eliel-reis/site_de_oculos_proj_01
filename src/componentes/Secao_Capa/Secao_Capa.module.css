@@ -46,12 +46,12 @@
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 268px) {
     .container_texto {
         max-width: 90%;
         margin-bottom: 47%;
         margin-left: 20px;
-        height: 250px;
+        height: 350px;
     }
 
     .container {
