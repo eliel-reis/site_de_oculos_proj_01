@@ -5,10 +5,11 @@ import Secao_Produtos from "@/componentes/Secao_Produtos";
 import Secao_Sobre from "@/componentes/Secao_Sobre";
 import Secao_Contato from "@/componentes/Secao_Contato";
 import Rodape from "@/componentes/Rodape";
+import styles from "@/styles/Home.module.css";
 
 export default function Home() {
   return (
-    <>
+    <main className={styles.main} >
       <Head>
         <title>Óticas Vida</title>
         <meta name="description" content="Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil. Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado." />
@@ -27,6 +28,6 @@ export default function Home() {
 
       <Rodape />
 
-    </>
+    </main>
   );
 }

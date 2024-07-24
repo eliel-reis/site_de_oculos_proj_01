@@ -78,13 +78,6 @@
 
 @media (max-width: 765px) {
 
-
-    .container {
-        width: 92%;
-        margin: 0;
-
-    }
-
     .container_parte_2_container {
         display: flex;
         justify-content: center;

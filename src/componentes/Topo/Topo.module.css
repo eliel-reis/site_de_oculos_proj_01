@@ -35,9 +35,6 @@
 }
 
 @media (max-width: 765px) {
-    .container {
-        width: 92%;
-    }
 
     .container_sub {
         display: flex;

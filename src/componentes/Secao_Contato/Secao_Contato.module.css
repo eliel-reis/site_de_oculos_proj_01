@@ -61,10 +61,7 @@
 
 @media (max-width: 765px) {
     .container_parte_5_container {
-
-        width: 92%;
-        padding: 50px 0px;
-
+        padding: 50px 10px;  
     }
 
     .container_parte_5_texto {
