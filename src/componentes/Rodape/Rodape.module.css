@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+
+@media (max-width: 765px) {
+    .footer {
+        width: 92%;
+    }
+}
+
+@media (max-width: 375px) {
+    .footer {
+        width: 100%;
+    }
+}
