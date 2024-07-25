@@ -38,10 +38,9 @@
 
     .container_texto {
         background-color: rgba(0, 0, 0, 0.548);
-        height: 250px;
-        margin-left: 98px;
-        margin-bottom: 28%;
-        max-width: 44%;
+        height: 350px;
+        min-width: 230px;
+        padding: 0 10px;
     }
 }
 
